@@ -1,16 +1,5 @@
 # mood_tracker_app
 
-A new Flutter project.
+Introducing our Mood Tracker app – your personal companion for understanding and improving your mental well-being. Designed with simplicity and effectiveness in mind, our app offers a seamless way to track your daily moods, providing valuable insights into your emotional patterns and overall mental health.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/Yash-Nalavade/mood_tracker_app/assets/75600418/f30ae0b4-3f40-4a7a-8f11-bd0af9389262)
